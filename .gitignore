@@ -1,0 +1,24 @@
+# Environment variables
+.env
+
+# Output files
+zone_import_results.csv
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
